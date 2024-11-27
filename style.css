@@ -1,0 +1,161 @@
+/* section one */
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.header-container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 20px;
+}
+.icon{
+    display: flex;
+}
+.icon i{
+    color: orange;
+    font-size: 2em;
+    padding-top: 20px;
+}
+.icon h1{
+    color: orange;
+    font-size: 2em;
+    padding-top: 20px;
+    padding-left: 20px;
+    /* padding-right: 100px; */
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+.header-container a{
+    padding-top: 20px;
+    
+}
+
+.btn-header{
+    padding-top: 20px;
+    padding-right: 20px;
+}
+.Get-demo{
+    background-color: transparent;
+    padding: 10px 40px;
+    color: rgb(249, 247, 247);
+    font-size: 1em;
+    border: none ;
+    background-color:   rgb(50, 98, 240);
+}
+.login{
+    background-color: transparent;
+    border: 1px solid rgb(38, 48, 244);
+    padding: 10px 40px;
+    color: rgb(20, 12, 237);
+    /* box-shadow: 3px 3px 10px rgb(41, 67, 2); */
+}
+.search{
+    background-color: transparent;
+    color: black;
+    font-size: 1.2em;
+    border: none;
+    font-weight: 700;
+}
+/* section two */
+.main{
+    display: flex;
+}
+.main-text{
+    text-align: center;
+    padding-top: 20px;
+
+ }
+.main-text P{
+    width: 500px;
+    padding-top: 20px;
+}
+.text p{
+    color: gray;
+}
+.text a{
+    color: blue;
+
+}
+.text i{
+    color: blue;
+    margin-left: 5px;
+}
+.btn-main{
+    margin-top: 40px;
+}
+.img img{
+    width: 400px;
+    height: 300px;
+    padding-top: 30px;
+    padding-left: 100px;
+}
+
+/* section three */
+
+
+.icons{
+    display: flex;
+}
+h4{
+    padding-top: 40px;
+    margin-left: 400px;
+    font-size: 2em;
+    
+}
+.User h3{
+    padding-left: 100px;
+    padding-top: 8px
+
+}
+.User i{
+    padding-left: 100px;
+    color: blue;
+    font-size: 1.8em;
+    padding-top: 40px;
+
+}
+.computer h3{
+    padding-left: 100px;
+    padding-top: 8px;
+
+}
+.computer i{
+    padding-left: 100px;
+    color: blue;
+    font-size: 1.8em;
+    padding-top: 40px;
+
+}
+.line h3{
+    padding-left: 100px;
+    padding-top: 8px;
+   
+}
+.line i{
+    padding-left: 100px;
+    color: blue;
+    font-size: 1.8em;
+    padding-top: 40px;
+    
+}
+.motor h3{
+    padding-left: 100px;
+    padding-top: 8px;
+ 
+
+}
+.motor i{
+    padding-left: 100px;
+    color: blue;
+    font-size: 1.8em;
+    padding-top: 40px;
+
+}
+
+
+
